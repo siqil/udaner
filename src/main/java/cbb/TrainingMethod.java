@@ -1,0 +1,5 @@
+package cbb;
+
+public enum TrainingMethod {
+	LIKELIHOOD, BOOTSTRAPPING, FEATURE_SUBSETTING, ENTROPY_REGULARIZATION
+}
